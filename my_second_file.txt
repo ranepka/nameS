@@ -1,0 +1,2 @@
+git add my_second_file.txt
+git status
